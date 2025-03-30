@@ -3,13 +3,6 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student at the Faculty of Engineering at UNAM, currently halfway through my degree. I am exploring a bit of every area within this broad field, and I am currently learning the basics of backend development. I enjoy learning new things and building projects that are both productive and creative.
-
-- 🌱 I’m currently learning...
-  - Docker
-  - Php
-- I am a member of SIAFI, a student association that works on various artificial intelligence projects, and of the IEEE Computer Society, which undertakes projects in different areas of computing.
-
 ### Technologies I have worked with
 
 <p align="center">
